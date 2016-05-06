@@ -210,7 +210,7 @@ a {
     font-size: 1rem; } }
 
 .site-footer {
-  position:fixed;
+  position:absoulte;
   bottom:0px;
   width:50%;
   padding-top: 0.5rem;
