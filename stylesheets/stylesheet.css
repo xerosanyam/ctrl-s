@@ -210,9 +210,8 @@ a {
     font-size: 1rem; } }
 
 .site-footer {
-  position:absoulte;
+  position:absolute;
   bottom:0px;
-  width:50%;
   padding-top: 0.5rem;
   border-top: solid 1px #eff0f1; }
 
